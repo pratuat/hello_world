@@ -1,7 +1,7 @@
-name: Python Test
+name: Python Workflows
 on: [push]
 jobs:
-    Test-Python-App-Module:
+    Unit-Testing:
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v2
