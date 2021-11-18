@@ -1,0 +1,9 @@
+click @ file:///Users/pratuat/Library/Caches/pypoetry/artifacts/6d/5e/aa/fb3ca17194ba9f3feb84939d73a0692cc5492cebad062aaed8cc6cf1b6/click-8.0.3-py3-none-any.whl
+Flask @ file:///Users/pratuat/Library/Caches/pypoetry/artifacts/05/d5/6b/34272bed636c3a272ced3f4b951b5ce9534c8cf73f5b041e8961d40a9b/Flask-2.0.2-py3-none-any.whl
+importlib-metadata @ file:///Users/pratuat/Library/Caches/pypoetry/artifacts/58/de/f6/e8fb35077ed9c776f61299a35e9a8b8add9c0eb7be76880a7d80bf40dd/importlib_metadata-4.8.1-py3-none-any.whl
+itsdangerous @ file:///Users/pratuat/Library/Caches/pypoetry/artifacts/cf/c0/00/b03d457b6bb292593d6ba74163675a52434c2cfe54196e93359fcc00bf/itsdangerous-2.0.1-py3-none-any.whl
+Jinja2 @ file:///Users/pratuat/Library/Caches/pypoetry/artifacts/28/03/05/3b898780f3aa814798109d1929b3825ef279d0569447e2d189bb2b3f69/Jinja2-3.0.2-py3-none-any.whl
+MarkupSafe @ file:///Users/pratuat/Library/Caches/pypoetry/artifacts/95/60/a5/c75300b01d1c586d989ca714750c2dc79a42f8d3a3ffcc8d8b1b557c01/MarkupSafe-2.0.1-cp37-cp37m-macosx_10_9_x86_64.whl
+typing-extensions @ file:///Users/pratuat/Library/Caches/pypoetry/artifacts/56/d7/18/f93adbed1c649d8ddb36a356dc2e8715728ae757a0fb17dcb1ab69535c/typing_extensions-3.10.0.2-py3-none-any.whl
+Werkzeug @ file:///Users/pratuat/Library/Caches/pypoetry/artifacts/81/c4/03/dcb4bfb4d869bce64bf657059407ba1c89cad81b935617855b0da0c355/Werkzeug-2.0.2-py3-none-any.whl
+zipp @ file:///Users/pratuat/Library/Caches/pypoetry/artifacts/fb/b1/aa/cbf5bcb38b8bd2bf677d51ebe9026188e5dcbc2deb2608d847f8e75e38/zipp-3.6.0-py3-none-any.whl
