@@ -10,4 +10,4 @@ class TestApp(TestCase):
         self.assertTrue(False)
 
 if __name__ == '__main__':
-    unittest.main() >> open('logs/test.log', 'w')
+    unittest.main()
